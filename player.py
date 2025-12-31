@@ -1,4 +1,4 @@
-from disc_color import DiscColor
+from enums.disc_color import DiscColor
 
 class Player:
 

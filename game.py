@@ -1,6 +1,6 @@
 from board import Board
 from player import Player
-from game_state import GameState
+from enums.game_state import GameState
 
 from typing import Optional
 
